@@ -3,8 +3,8 @@
 
 ## Informações Gerais
 Coloque aqui os seus dados
-- Nome: 
-- Matricula:
+- Nome: Eduardo Henrique Rodrigues Dias
+- Matricula: 
 
 ## Tela de inspeção com navegador
 
