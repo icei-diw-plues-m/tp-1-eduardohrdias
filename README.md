@@ -8,7 +8,8 @@ Coloque aqui os seus dados
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+<img src="InspectorCanvas.jpeg">
+<img src="Site.Jpeg">
 
 
 ## Orientações sobre Linguagem MarkDown
